@@ -1,6 +1,7 @@
 # Retrieval-Augmented Generation (RAG) Q&A for National-Security Focused
 
 This notebook implements a Retrieval-Augmented Generation (RAG) system for Question Answering on a collection of PDF documents, with a focus on national security topics. The goal is to provide a system that can answer questions based on the information contained within the provided documents.
+RAG Explanation Diagram: https://excalidraw.com/#json=rlEuyKtv59B1LpvuwNSkp,W8K5Idk3QjLXGui5840lDw
 
 ## Process and Thinking Behind the Solution
 
